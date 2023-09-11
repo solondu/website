@@ -10,9 +10,7 @@ RUN npm install
 FROM node:17-alpine AS builder
 WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
-COPY src ./src
-COPY public ./public
-COPY package.json *.config.js tsconfig.json ./
+COPY ./ ./
 RUN npm run build
 
 # Stage 3: run
