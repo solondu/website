@@ -243,7 +243,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/roche.svg"
-                  alt="Transistor"
+                  alt="Roche"
                   width={158}
                   height={48}
                 />
@@ -252,7 +252,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/pfizer.png"
-                  alt="Reform"
+                  alt="Pfizer"
                   width={158}
                   height={48}
                 />
@@ -261,7 +261,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/jj.png"
-                  alt="Tuple"
+                  alt="Johnson & Johnson"
                   width={158}
                   height={48}
                 />
@@ -270,7 +270,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/novartis.png"
-                  alt="Laravel"
+                  alt="Novartis"
                   width={158}
                   height={48}
                 />
@@ -279,7 +279,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/gilead.png"
-                  alt="SavvyCal"
+                  alt="Gilead"
                   width={158}
                   height={48}
                 />
@@ -288,7 +288,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/az.png"
-                  alt="Statamic"
+                  alt="AstraZeneca"
                   width={158}
                   height={48}
                 />
@@ -297,7 +297,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/bristol.png"
-                  alt="Laravel"
+                  alt="Bristol Myers Squibb"
                   width={158}
                   height={48}
                 />
@@ -306,7 +306,7 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/lilly.png"
-                  alt="SavvyCal"
+                  alt="Eli Lilly"
                   width={158}
                   height={48}
                 />
@@ -315,7 +315,34 @@ export default function Home() {
                 <img
                   className="max-h-12 w-full object-contain"
                   src="/images/boe.png"
-                  alt="Statamic"
+                  alt="Boehringer Ingelheim"
+                  width={158}
+                  height={48}
+                />
+              </div>
+              <div className="bg-gray-400/5 p-6 sm:p-10">
+                <img
+                  className="max-h-12 w-full object-contain"
+                  src="/images/gsk.png"
+                  alt="GlaxoSmithKline"
+                  width={158}
+                  height={48}
+                />
+              </div>
+              <div className="bg-gray-400/5 p-6 sm:p-10">
+                <img
+                  className="max-h-12 w-full object-contain"
+                  src="/images/novo.png"
+                  alt="Novo Nordisk"
+                  width={158}
+                  height={48}
+                />
+              </div>
+              <div className="bg-gray-400/5 p-6 sm:p-10">
+                <img
+                  className="max-h-12 w-full object-contain"
+                  src="/images/merck.png"
+                  alt="Merck"
                   width={158}
                   height={48}
                 />
