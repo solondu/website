@@ -87,7 +87,7 @@ export default function Home() {
     <div className="bg-teal-50">
       {/* Header */}
       <Head>
-        <title>{`Solondu: Your Source for Rare Medications - Order Now on WhatsApp`}</title>
+        <title>{`Solondu: Your Source for Rare Medications - Contact Us Now on WhatsApp`}</title>
       </Head>
       <header className="absolute inset-x-0 top-0 z-50">
         <nav
@@ -174,7 +174,7 @@ export default function Home() {
                       href="https://wa.me/+2349012558753"
                       className="rounded-md bg-teal-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm no-underline hover:bg-teal-700"
                     >
-                      Place a Request
+                      Fulfill your Prescription
                     </Link>
                   </div>
                 </div>
@@ -446,7 +446,7 @@ export default function Home() {
                 href="https://wa.me/+2349012558753"
                 className="rounded-md bg-teal-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-teal-900"
               >
-                Place a Request Now
+                Consult our Pharmacists Now
               </Link>
             </div>
           </div>
